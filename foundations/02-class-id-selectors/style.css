@@ -1,0 +1,24 @@
+.pink-background {
+
+    background-color: rgb(233, 156, 156);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ntwo {
+
+    color: #0000ff;
+    font-size: 36px;
+
+}
+
+.cooler {
+
+    font-size: 24px;
+}
+
+#nfour {
+
+    background-color: rgb(150, 255, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
